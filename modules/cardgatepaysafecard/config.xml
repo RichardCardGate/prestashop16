@@ -2,7 +2,7 @@
 <module>
 	<name>cardgatepaysafecard</name>
 	<displayName><![CDATA[CardGate Paysafecard]]></displayName>
-	<version><![CDATA[1.6.2]]></version>
+	<version><![CDATA[1.6.40]]></version>
 	<description><![CDATA[Accepts payments with CardGate Paysafecard.]]></description>
 	<author><![CDATA[Richard Schoots]]></author>
 	<tab><![CDATA[payments_gateways]]></tab>
